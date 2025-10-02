@@ -208,7 +208,7 @@ function ScheduleItem({ item, tz }) {
 
 function Empty(){
   return (
-    <div className="text-center py-16 text-neutral-400">No items in range. Add channels in the Admin page or click Refresh.</div>
+    <div className="text-center py-16 text-neutral-400">ไม่มี list ที่เพิ่มไว้</div>
   );
 }
 
